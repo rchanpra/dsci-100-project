@@ -1,4 +1,4 @@
-# dsci100_group_project
+# group_project
 
 Group:
 - project-006-35
