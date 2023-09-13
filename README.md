@@ -1,1 +1,1 @@
-# group_project
+# pulsar-star-predictor
