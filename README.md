@@ -1,1 +1,1 @@
-# pulsar-star-predictor
+# Pulsar Star Classification
